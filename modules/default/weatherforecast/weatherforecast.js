@@ -1,4 +1,5 @@
-/* global Module */
+/
+* * global Module */
 
 /* Magic Mirror
  * Module: WeatherForecast

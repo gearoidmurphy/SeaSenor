@@ -9,10 +9,10 @@ html {
 }
 
 body {
-  margin: 60px;
+  margin: 10px;
   position: absolute;
-  height: calc(100% - 120px);
-  width: calc(100% - 120px);
+  height: calc(100% - 60px);
+  width: calc(100% - 60px);
   background: #000;
   color: #aaa;
   font-family: "Roboto Condensed", sans-serif;
@@ -94,9 +94,10 @@ body {
 
 header {
   text-transform: uppercase;
+  text-align: center;
   font-size: 15px;
   font-family: "Roboto Condensed", Arial, Helvetica, sans-serif;
-  font-weight: 400;
+  font-weight: bold;
   border-bottom: 1px solid #666;
   line-height: 15px;
   padding-bottom: 5px;
@@ -116,6 +117,26 @@ sup {
 .module {
   margin-bottom: 30px;
 }
+
+.module.sea-buoy {
+  width300px;
+  height:200px;
+}
+
+.module.air_pollution {
+  width300px;
+  height:200px;
+  text-align: center;
+}
+.module.tide-times {
+  font-size: 20px;
+  text-align: center;
+}
+
+.module.clock {
+  height:150px;
+}
+
 
 .region.bottom .module {
   margin-top: 30px;
