@@ -1,5 +1,6 @@
 # SeaSenor
 By Gearoid Murphy and Jack Pender
+https://youtu.be/kf7KCsEHFWs
 
 MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. 
 MagicMirror² focuses on a modular plugin system and uses Electron as an application wrapper. So no more web server or browser installs necessary! This makes it very accessible to developers as there are very little add-ons necessary to operate it and add the modules that you yourself choose. 
