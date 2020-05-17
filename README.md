@@ -163,7 +163,7 @@ start: function () {
 ```
 This how we requested it and defined the data. We then added it to the config  
 
-###Air Pollution Module
+### Air Pollution Module
 This module was mad as a practice one but it actually turned out well its job was to get the air quality and tell you if its good we then decided we should put an icon in for each level so if the air quality is good it’s a green smiley face then if the air is moderate it’s a brown sad face and if its unhealthy it’s a red angry face 
 This was to hard to code just a couple of if statements
 ```javascript
